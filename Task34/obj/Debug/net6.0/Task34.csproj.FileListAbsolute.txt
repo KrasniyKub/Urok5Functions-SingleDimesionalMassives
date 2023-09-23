@@ -1,0 +1,15 @@
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/bin/Debug/net6.0/Task34
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/bin/Debug/net6.0/Task34.deps.json
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/bin/Debug/net6.0/Task34.runtimeconfig.json
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/bin/Debug/net6.0/Task34.dll
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/bin/Debug/net6.0/Task34.pdb
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/obj/Debug/net6.0/Task34.csproj.AssemblyReference.cache
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/obj/Debug/net6.0/Task34.GeneratedMSBuildEditorConfig.editorconfig
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/obj/Debug/net6.0/Task34.AssemblyInfoInputs.cache
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/obj/Debug/net6.0/Task34.AssemblyInfo.cs
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/obj/Debug/net6.0/Task34.csproj.CoreCompileInputs.cache
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/obj/Debug/net6.0/Task34.dll
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/obj/Debug/net6.0/refint/Task34.dll
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/obj/Debug/net6.0/Task34.pdb
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/obj/Debug/net6.0/Task34.genruntimeconfig.cache
+/home/dima/Programirovanie/C#/Urok5Functions&SingleDimesionalMassives/Task34/obj/Debug/net6.0/ref/Task34.dll
